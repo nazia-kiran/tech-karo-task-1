@@ -1,0 +1,40 @@
+header {
+    background-color: cornflowerblue;
+}
+
+.cities {
+    background-color: forestgreen;
+    color: white;
+}
+
+.article {
+    background-color:lightsteelblue;
+    color: royalblue;
+    width: 200px;
+}
+
+.article1 {
+    background-color:purple;
+    color: white;
+    width: 200px;
+
+}
+
+
+.article2 {
+    background-color:blue;
+    color: white;
+    width: 200px;
+    
+}
+
+button {
+    color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+    border: lightblue;
+}
+
+footer {
+    background-color:black;
+    color:whitesmoke;
+}
